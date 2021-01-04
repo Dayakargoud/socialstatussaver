@@ -1,0 +1,86 @@
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    height: 80px;
+    background-color: #ffffff;
+}
+body{
+    background-color: black;
+    margin: 0px;
+}
+#header_container{
+    width: 75%;
+    margin: auto;
+}
+
+.col_3{
+    width: 33%;
+    float: left;
+}
+.logo{
+    padding-top: 30px;
+}
+.menu{
+    margin-top: 32px;
+}
+.menu li{
+   list-style-type: none;
+   display: inline;
+   font-size: .85em;
+   color: #8e8e8e;
+   padding-right: 30px;
+}
+.getstartedBTN{
+    background-color: #6dc77c;
+    border-radius: 28px;
+    -moz-border-radius:28px;
+    -webkit-border-radius:28px;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px 2px;
+    margin-top: 20px;
+    display:inline-block;
+    font-size: 17px;
+    float: right;
+
+}
+#top_section_main{
+    background-image: url(../images/Friends.jpg);
+    height: 740px;
+    border: none;
+
+    
+
+}
+#top_secton_content{
+ width: 60%;
+ margin-top:0;
+ margin-left: auto;
+ margin-right: auto;
+}
+#top_secton_content h1{
+    font-size: 4em;
+    font-weight: 300;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 0px;
+    padding-top: 100px;
+    margin-bottom: 0;
+
+}
+#top_secton_content p{
+    font-size: 1.3em;
+    font-weight: 400;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 0px;
+}
+.play{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 50px 0px 110px 0px;
+}
